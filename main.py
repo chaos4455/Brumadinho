@@ -3,7 +3,7 @@
 #===========================================================================
 # Created with: 	Virtual Studio Code
 # Created on:   	30/01/2019 01:12
-# Created by:   	 	
+# Created by:   	Chaos4455 	
 #===========================================================================
 # DESCRIÇÃO
 #	BFDSVI -- Brumadinho Face Detection System for Victims Identification
