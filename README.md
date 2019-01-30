@@ -20,6 +20,6 @@ Agência: 1669-1 (Brumadinho)
 Conta-Corrente: 200-3 (SOS Brumadinho)
 CNPJ: 18.363.929/0001-40
 
-- Contato: oeliasandrade@gmail.com
+- Contato para ajudar com o projeto: oeliasandrade@gmail.com
 
 ![](http://img1-azrcdn.newser.com/image/1220280-0-20190128092544.jpeg)
