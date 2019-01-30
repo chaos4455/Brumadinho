@@ -38,3 +38,60 @@ Recebido retorno e reposta sobre encaminhamento da mensagem aos responsáveis pe
 30/01/2019 01:06
 
 Enviado E-mail ofertando o uso da ferramenta pra a chefe do gabinete de crise geral da Pc de MG.
+
+
+
+# Informações técnicas
+
+
+## Requisitos
+- Ubuntu 16.04
+- Python 3.5
+- OpenCV
+- Keras
+- TensorFlow(backend)
+
+
+## Getting Started
+Criando virtualenv
+```bash
+$ cd FRSFLSC
+$ virtualenv env --python=python3.5
+$ source env/bin/activate
+```
+
+Instalando dependências 
+```bash
+$ pip install -r requirements.txt
+```
+
+Executando
+```bash
+$ python main.py
+```
+
+#### Como se usa?
+```python
+import dlib, cv2
+
+fileName = 'rosto.jpg'
+img = cv2.imread(fileName)
+predictorPath = 'face_detection/shape_predictor_68_face_landmarks.dat'
+
+detector = dlib.get_frontal_face_detector()
+predictor = dlib.shape_predictor(predictorPath)
+dets = detector(img, 1)
+
+print("Number of faces detected: {}".format(len(dets)))
+for i, d in enumerate(dets):
+    print("Detection {}: Left: {} Top: {} Right: {} Bottom: {}".format(
+        i, d.left(), d.top(), d.right(), d.bottom()))
+    shape = predictor(img, d)
+    print("Part 0: {}, Part 1: {} ...".format(shape.part(0),
+                                              shape.part(1)))
+```
+
+
+## Reconhecimento Facial 
+- Implementação do modelo CNN em Python3, Keras(Tensorflow backend)
+
