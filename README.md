@@ -29,6 +29,11 @@ CNPJ: 18.363.929/0001-40
 
 - Updates:
 
+30/01/2019 15:57
+
+Recebido retorno e reposta sobre encaminhamento da mensagem aos responsáveis pelos trabalhos.
+
+
 30/01/2019 01:06
 
 Enviado E-mail ofertando o uso da ferramenta pra a chefe do gabinete de crise geral da Pc de MG.
