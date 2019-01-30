@@ -7,6 +7,12 @@ Objetivo:
 - O projeto objetiva somente um meio de ajudar e auxiliar e adiantar o procesos de identificação dos corpos e trazer o mínimo de alento as famílias e amigos das vítiamas.
 
 
+- Ajude Brumadinho doando pelo Banco do Brasil
+[I'm an inline-style link](https://www.bb.com.br/pbb/pagina-inicial/ajude-brumadinho)
+
+
+
+
 - Contato: oeliasandrade@gmail.com
 
 ![](http://img1-azrcdn.newser.com/image/1220280-0-20190128092544.jpeg)
