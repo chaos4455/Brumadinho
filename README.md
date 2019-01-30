@@ -1,4 +1,4 @@
-# Sistema de reconhecimento facial para identificação dos corpos de vítmas de em acidentes e catástrofes de grandes proporções.
+# Sistema de reconhecimento facial e identificação de vítmas de catástrofes de grandes proporções.
 # Facial recognition system for large-scale catastrophes
 
 Objetivo:
