@@ -8,10 +8,17 @@ Objetivo:
 
 
 - Ajude Brumadinho doando pelo Banco do Brasil
-[I'm an inline-style link](https://www.bb.com.br/pbb/pagina-inicial/ajude-brumadinho)
+[Ajude Brumadinho Banco do Brasil Conta Oficial](https://www.bb.com.br/pbb/pagina-inicial/ajude-brumadinho)
 
+Ajude Brumadinho
+Você pode ajudar os moradores de Brumadinho realizando doações na conta exclusiva para esse fim.
 
+ Juntos podemos ajudar diversas pessoas em estado de necessidade.
+Faça sua contribuição para quem mais precisa.
 
+Agência: 1669-1 (Brumadinho)
+Conta-Corrente: 200-3 (SOS Brumadinho)
+CNPJ: 18.363.929/0001-40
 
 - Contato: oeliasandrade@gmail.com
 
