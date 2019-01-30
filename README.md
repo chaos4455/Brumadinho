@@ -25,3 +25,10 @@ CNPJ: 18.363.929/0001-40
 - Contato para ajudar com o projeto: oeliasandrade@gmail.com
 
 ![](http://img1-azrcdn.newser.com/image/1220280-0-20190128092544.jpeg)
+
+
+- Updates:
+
+30/01/2019 01:06
+
+Enviado E-mail ofertando o uso da ferramenta pra a chefe do gabinete de crise geral da Pc de MG.
