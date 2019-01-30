@@ -11,7 +11,7 @@ Objetivo:
 - Ajude Brumadinho doando pelo Banco do Brasil
 [Ajude Brumadinho Banco do Brasil Conta Oficial](https://www.bb.com.br/pbb/pagina-inicial/ajude-brumadinho)
 
-- Este projeto é um fork do projeto: [FaceID](https://github.com/chaos4455/faceID) , porém com algumas melhorias e adequações para o uso em específico.
+- Este projeto é um fork do projeto: [FaceID](https://github.com/chaos4455/faceID) , porém com objetivo de conter melhorias e adequações para o uso em caso específico.
 
 Ajude Brumadinho
 Você pode ajudar os moradores de Brumadinho realizando doações na conta exclusiva para esse fim.
